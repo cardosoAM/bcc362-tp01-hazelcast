@@ -31,9 +31,8 @@ O guia contém os comandos para fazer a apresentação manualmente. Não rode a 
 
 ## Entrega
 
-Hazelcast está listado como framework no enunciado: itens 1, 2, 4 e 5. VMs com orquestradores não são obrigatórias nessa modalidade. A aplicação foi preparada para testar entradas maiores e observar queda/entrada de membro mantendo o cliente de acompanhamento ativo. Processos locais são JVMs distintas no mesmo host, não máquinas físicas distintas.
+VMs com orquestradores não são obrigatórias nessa modalidade. A aplicação foi preparada para testar entradas maiores e observar queda/entrada de membro mantendo o cliente de acompanhamento ativo. Processos locais são JVMs distintas no mesmo host, não máquinas físicas distintas.
 
-Preencha nomes/matrículas (até 3 alunos) em `slides/apresentacao.tex`. As perguntas de preparação não substituem as perguntas efetivas do professor, que não estão anexadas ao enunciado.
 
 ## Obter pelo GitHub
 
